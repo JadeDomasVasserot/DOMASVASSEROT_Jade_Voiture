@@ -1,0 +1,5 @@
+﻿  DOMASVASSEROT_Jade_Voiture.cpp
+C:\Users\jaded\OneDrive - Ifag Paris\1.EPSI B1\COURS B1\Algo_orientéobj_hayri\DOMASVASSEROT_Jade_Voiture\DOMASVASSEROT_Jade_Voiture.cpp(14,10): warning C4930: 'Voiture V1(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
+C:\Users\jaded\OneDrive - Ifag Paris\1.EPSI B1\COURS B1\Algo_orientéobj_hayri\DOMASVASSEROT_Jade_Voiture\DOMASVASSEROT_Jade_Voiture.cpp(30,10): warning C4930: 'Renault R1(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
+C:\Users\jaded\OneDrive - Ifag Paris\1.EPSI B1\COURS B1\Algo_orientéobj_hayri\DOMASVASSEROT_Jade_Voiture\DOMASVASSEROT_Jade_Voiture.cpp(22,11): warning C4930: 'Mercedes M1(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
+  DOMASVASSEROT_Jade_Voiture.vcxproj -> C:\Users\jaded\OneDrive - Ifag Paris\1.EPSI B1\COURS B1\Algo_orientéobj_hayri\DOMASVASSEROT_Jade_Voiture\Debug\DOMASVASSEROT_Jade_Voiture.exe
